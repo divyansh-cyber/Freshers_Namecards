@@ -19,10 +19,10 @@ const CONTRIBUTERS = [
         github: "https://github.com/darshi1337"
     },
     {
-        handle_name: 'shivansh-bhatnagar18',
-        name: "Shivansh Bhatnagar",
-        description: "Hello everyone, myself Shivansh from MnC Part 2",
-        github: "https://github.com/shivansh-bhatnagar18"
+        handle_name: 'divyansh-cyber',
+        name: "divyansh rai",
+        description: "Hello everyone, myself divyansh from meta Part 1",
+        github: "https://github.com/divyansh-cyber"
     },
     
 ];
